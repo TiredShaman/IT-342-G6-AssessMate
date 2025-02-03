@@ -1,12 +1,22 @@
-# IT-342-G6-AssessMate
-Review and Assessment System
+# Review and Assessment System
 
-Member1
+## Member1 - ARIEL ANGELO G. ELCA
+**Course & Year:** BSIT-3
 
-NAME: ARIEL ANGELO G. ELCA
-COURSE & YEAR: BSIT-3
+> _"A lotus flower that struggles through mud to emerge beautiful and whole"_
 
-A lotus flower that struggles through mud to emerge beautiful  and whole
+### About Me
+Hi, I'm Ariel Angelo G. Elca – a dedicated BSIT student with a passion for creativity and technology.  
+I blend analytical thinking with artistic expression to create innovative solutions and beautiful designs.
+
+### Interests & Hobbies
+- **Music:** I love playing the piano 🎹  
+- **Gaming:** Avid online gamer 🎮  
+- **Art:** Passionate about painting 🎨 and drawing ✏️
+
+### Let's Connect
+Feel free to reach out if you’d like to collaborate or just chat about tech and art!
+
 
 NAME: ANTOINETTE R. RUBIO
 COURSE & YEAR: BSIT-3
